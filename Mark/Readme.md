@@ -53,8 +53,10 @@ annie ［可选参数］http://…  (视频网址)
 可以毛遂自荐么，虽然没有楼上推荐的那些爬虫项目那么优秀，完全是业余时候打发时间的小作品，不过供新手学习使用还是绰绰有余的。（收藏是点赞的两倍，小伙伴们随手点个赞同呀~）
 1. 模拟登录各大网站——DecryptLogin
 项目地址：
-https://github.com/CharlesPikachu/DecryptLogin项目中文文档：
-https://httpsgithubcomcharlespikachudecryptlogin.readthedocs.io/zh/latest/这是一个利用requests来模拟登录各大网站的开源包，目前支持模拟登录以下平台：
+https://github.com/CharlesPikachu/DecryptLogin
+项目中文文档：
+https://httpsgithubcomcharlespikachudecryptlogin.readthedocs.io/zh/latest/
+这是一个利用requests来模拟登录各大网站的开源包，目前支持模拟登录以下平台：
 利用pip命令安装该包后：
 pip install DecryptLogin
 只需要简单的几行代码就可以实现支持列表中的任意一个网站的模拟登录操作，例如模拟登录百度网盘：
@@ -90,18 +92,22 @@ mp.weixin.qq.com/s/_82U7luG6jmV-xb8-Qkiew
 下载B站指定UP主的所有视频
 2.音乐下载器(2020.04.01完成Flag)
 项目地址：
-https://github.com/CharlesPikachu/musicdl项目文档：
-https://musicdl.readthedocs.io/zh/latest/index.html目标支持的平台情况：
+https://github.com/CharlesPikachu/musicdl
+项目文档：
+https://musicdl.readthedocs.io/zh/latest/index.html
+目标支持的平台情况：
 运行效果是这样子的：
 音乐下载器
 3.视频下载器
 项目地址：
-https://github.com/CharlesPikachu/Video-Downloader也很久没更新了，大概长这样：
+https://github.com/CharlesPikachu/Video-Downloader
+也很久没更新了，大概长这样：
 写的时间有点久了，我自己都可能看不懂自己写的代码是啥玩意了。and最近没有重构计划。有需要的可以自己看看改改。
 4.其他
 因为爬虫项目维护起来比较麻烦，所以我一般懒得传到Github上，有兴趣的小伙伴可以关注一下我的微信公众号"Charles的皮卡丘"，里面会不定期分享一些爬虫项目(因为现在不太喜欢写爬虫了，后面比较偏向于发自己的主业CV，或者说AI相关的内容)。然后在底部菜单栏的历史文章里可以看到我发过的所有爬虫代码，需要的自取就ok了。
 对了，这里面好像也有几个零星的爬虫相关的项目：
-https://github.com/CharlesPikachu/Tools编辑于2020-10-16 22:46
+https://github.com/CharlesPikachu/Tools
+编辑于2020-10-16 22:46
 赞同 1968
 47 条评论
 6426

@@ -2,9 +2,9 @@
 git clone --depth=1 https://github.com/reallycd/scrapy.git
 
 已执行。
-git clone https://github.com/reallycd/_python-dev-container-demo.git container相关/docker
-git clone https://github.com/reallycd/_terraform-dev-container.git container相关/配置container
-git clone https://github.com/reallycd/_nginx-flask-mysql.git container相关/Docker_in_Docker
+git clone https://github.com/xiaopeng163/python-dev-container-demo.git container相关/docker
+git clone https://github.com/xiaopeng163/terraform-dev-container.git container相关/配置container
+git clone https://github.com/xiaopeng163/nginx-flask-mysql.git container相关/Docker_in_Docker
 git clone https://github.com/reallycd/playwright-mcp-generate.git Unsuitable/Playwright_AI生成脚本
 git clone https://github.com/SimoneAvogadro/android-reverse-engineering-skill.git Unsuitable/安卓逆向AI
 git clone https://github.com/Kr1s77/awesome-python-login-model.git Mark/login

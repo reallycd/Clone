@@ -1,5 +1,8 @@
 # all
 可命令安装，不必fork，看以下的示例项目。https://github.com/reallycd/aria2
+
+
+下面这些都准备删掉。不过暂时还在测试。
 git clone --depth=1 https://github.com/reallycd/scrapy.git
 https://github.com/scrapy/scrapy
 https://github.com/iawia002/lux#download-a-video

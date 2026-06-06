@@ -1,7 +1,7 @@
 # all
 可命令安装，不必fork
 git clone --depth=1 https://github.com/reallycd/scrapy.git
-
+https://github.com/scrapy/scrapy
 https://github.com/iawia002/lux#download-a-video
 https://github.com/ytdl-org/youtube-dl
 

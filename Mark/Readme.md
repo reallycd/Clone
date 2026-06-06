@@ -66,26 +66,27 @@ infos_return, session = lg.baidupan(username, password, 'pc')
 其中infos_return是一个字典对象，里面有用户登录后的一些基本信息，session是已经登录了目标网站的会话(requests.Session对象)。
 那么模拟登录网站后有什么用呢？别担心，该开源项目会不定期添加一些需要模拟登录的爬虫小案例，帮助你更好地学习爬虫：
 每个案例都对应了我微信公众号里的一篇讲解文章(虽然文章可能不太走心，写的比较粗略，微信公众号名是“Charles的皮卡丘”，感兴趣的可以搜索关注一下)。例如微博监控：
+
 Python监控小姐姐/小哥哥微博，了解一下？
-mp.weixin.qq.com/s/uOT1cGqXkOq-Hdc8TVnglg
+"https://mp.weixin.qq.com/s/uOT1cGqXkOq-Hdc8TVnglg" (https://mp.weixin.qq.com/s/uOT1cGqXkOq-Hdc8TVnglg)
 网易云音乐自动签到脚本：
 整个小例子呗，实现一下网易云音乐自动签到
-mp.weixin.qq.com/s/8d7smUSzW2ds1ypZq-yeFw
+"https://mp.weixin.qq.com/s/8d7smUSzW2ds1ypZq-yeFw" (https://mp.weixin.qq.com/s/8d7smUSzW2ds1ypZq-yeFw)
 大吼一声发条微博：
 随便玩玩，要不要试试大吼一声来发条微博
-mp.weixin.qq.com/s/_aIY-iVj3xetfHQyMxflkg
+"https://mp.weixin.qq.com/s/_aIY-iVj3xetfHQyMxflkg" (https://mp.weixin.qq.com/s/_aIY-iVj3xetfHQyMxflkg)
 爬取目标用户的所有微博数据：
 听说想了解一个人要从爬取她(他)的所有微博开始呢~
-mp.weixin.qq.com/s/-3BDTZAE1x7nfCLNq2mFBw
+"https://mp.weixin.qq.com/s/-3BDTZAE1x7nfCLNq2mFBw" (https://mp.weixin.qq.com/s/-3BDTZAE1x7nfCLNq2mFBw)
 生成QQ个人专属报告：
 模拟登录系列 | 生成QQ个人专属报告
-mp.weixin.qq.com/s/dsVtEp_TFeyeSAAUn1zFEw
+"https://mp.weixin.qq.com/s/dsVtEp_TFeyeSAAUn1zFEw" (https://mp.weixin.qq.com/s/dsVtEp_TFeyeSAAUn1zFEw)
 下载B站指定UP主的所有视频：
 模拟登录系列 | 下载B站指定UP主的所有视频
-mp.weixin.qq.com/s/GaVW4_nbAaO0QvphI7QgnA
+"https://mp.weixin.qq.com/s/GaVW4_nbAaO0QvphI7QgnA" (https://mp.weixin.qq.com/s/GaVW4_nbAaO0QvphI7QgnA)
 网易云个人歌单下载器：
 模拟登录系列 | 来写个网易云个人歌单下载器？
-mp.weixin.qq.com/s/_82U7luG6jmV-xb8-Qkiew
+"https://mp.weixin.qq.com/s/_82U7luG6jmV-xb8-Qkiew" (https://mp.weixin.qq.com/s/_82U7luG6jmV-xb8-Qkiew)
 等等。
 或许有人懒得点进去，放几个视频吧(都是公众号+Github里的案例)：
 网易云个人歌单下载器

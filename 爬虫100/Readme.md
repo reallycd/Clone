@@ -247,4 +247,4 @@ git clone https://github.com/yhangf/PythonCrawler.git 爬虫100/99_PythonCrawler
 - "https://github.com/wistbean/learn_python3_spider"
 - "https://github.com/facert/awesome-spider"
 ***
-现在从头到尾一共100个条目，每个都对应了原始的完整链接，没有遗漏。
+

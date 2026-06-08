@@ -112,6 +112,12 @@ info社区
 朱卫军
 
 
+
+11. 新浪微博爬虫分享
+"http://blog.csdn.net/bone_ace/article/details/50903178"
+12. 新浪微博分布式爬虫分享
+"http://blog.csdn.net/bone_ace/article/details/50904718"
+
 根据您的要求，我将前面几轮对话中出现的所有GitHub仓库链接（约80条）整理成以下格式：
 注意： 共整理了58个不同于"examples-of-web-crawlers"仓库内子项目的独立GitHub仓库。"examples-of-web-crawlers"仓库本身以及其下的子目录（对应前9个项目）只有一个主仓库链接，即：
 另外，还有一些项目链接指向的是CSDN博客或微信公众号文章（如第11、12、65-83、96项），这些并非GitHub仓库，所以没有包含在上述列表中。

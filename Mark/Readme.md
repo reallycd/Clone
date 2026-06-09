@@ -11,6 +11,10 @@ Mark/python-spider
 Playwright 是微软开源的现代浏览器自动化框架，用少量代码就能在 Chromium（Chrome/Edge）、Firefox、WebKit（Safari 引擎）里自动完成人类的浏览器操作：打开网页、点击、输入、拖拽、上传文件、截图/PDF、录制日志与回放，最常见的用途是 端到端（E2E）测试，也可做轻量爬取与流程自动化。
 
 
+
+GitHub 上有哪些优秀的 Python 爬虫项目？
+第一个回答是爬虫100项目
+
 龙鹏-笔名言有三
 龙鹏-笔名言有三
 2379 人赞同了该回答

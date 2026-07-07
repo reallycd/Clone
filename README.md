@@ -39,3 +39,5 @@ GitHub 上文件上传后显示为带有白色箭头图标且无法正常打开�
 find . -type d -name ".git"
 
 find ./* -type d -name ".git" -exec rm -rf {} +
+
+相关命令全部都是在根目录运行。
